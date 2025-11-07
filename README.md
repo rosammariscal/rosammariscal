@@ -36,4 +36,5 @@ Part of my doctoral and postdoctoral research at **UNAM – Faculty of Engineeri
 ---
 
 *Author: Rosa María Mariscal Romero*  
-*Contact: [your email or GitHub link]*
+*Contact: rosa.m.mariscal@gmail.com*
+
